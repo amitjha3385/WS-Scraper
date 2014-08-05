@@ -1,0 +1,2 @@
+# Ignore _pychache_ directory created by IDE
+__pycache__/
